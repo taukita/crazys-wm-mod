@@ -1922,8 +1922,10 @@ Started cleaning image selection.
  - Fixed the problem with .ani files not working.
  
 !!!!!!!!!!!!!!!!!!!! pushed to SVN - r165  -  Pushing before attempting to add gif support in case it does not work.
- 
- 
+!!!!!!!!!!!!!!!!!!!! Google code is being phased out by Google and the SVN has been moved to github.com
+!!!!!!!!!!!!!!!!!!!! https://github.com/crazywm/crazys-wm-mod
+
+WME - Fixed several issues with ".girls" files not loading properly
  
  
 
